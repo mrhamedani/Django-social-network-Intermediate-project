@@ -1,4 +1,4 @@
-# This A shop Project that is been createy By python
+# This social network Project that is been createy By python
 
 
 **Features**
